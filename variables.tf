@@ -205,5 +205,5 @@ variable "db_backup_retention_period" {
 variable "db_skip_final_snapshot" {
   description = "Skip final snapshot on deletion"
   type        = bool
-  default     = false
+  default     = true
 }

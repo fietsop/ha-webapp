@@ -4,7 +4,7 @@ A production-ready, modular Terraform configuration for deploying a highly avail
 
 ## Architecture Overview
 
-This infrastructure deploys a highly available, scalable web application with the following components:
+This infrastructure deploys a highly available,scalable web application with the following components:
 
 ```
 Internet
